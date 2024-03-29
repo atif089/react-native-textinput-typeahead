@@ -1,0 +1,19 @@
+{
+  "name": "react-native-textinput-typeahead",
+  "version": "1.0.0",
+  "description": "a react native text input typeahead wrapper with accessibility compatibility",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "github:atif089/react-native-textinput-typeahead",
+  "keywords": [
+    "input",
+    "typeahead"
+  ],
+  "files": [
+    "/src"
+  ],
+  "author": "Atif Mohammed <atif089@gmail.com>",
+  "license": "MIT"
+}
