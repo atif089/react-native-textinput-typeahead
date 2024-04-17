@@ -4,7 +4,7 @@ Tested with Expo 50 ("react-native": "^0.73.6")
 
 # Demo
 
-[Demo](./docs/demo.mp4)
+![Demo](./docs/demo.gif)
 
 # Import the component
 
