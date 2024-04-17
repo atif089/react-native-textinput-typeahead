@@ -6,13 +6,17 @@ Tested with Expo 50 ("react-native": "^0.73.6")
 
 ![Demo](./docs/demo.gif)
 
-# Import the component
+## Usage
+
+## Install the package
+
+npm i --save https://github.com/atif089/react-native-textinput-typeahead
+
+## Import the component
 
 `import TextInputTypeAhead from 'react-native-textinput-typeahead';`
 
-# Usage
-
-1. Setup the component
+## Setup the component
 
 ```jsx
   <TextInputTypeAhead
@@ -33,7 +37,7 @@ Tested with Expo 50 ("react-native": "^0.73.6")
   />
 ```
 
-2. Set up suggestions handler
+## Set up suggestions handler
 
 ```js
   const getSuggestionPromiseHandler = (query) => {
