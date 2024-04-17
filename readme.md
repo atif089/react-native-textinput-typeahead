@@ -10,7 +10,7 @@ Tested with Expo 50 ("react-native": "^0.73.6")
 
 ## Install the package
 
-npm i --save https://github.com/atif089/react-native-textinput-typeahead
+`npm i --save https://github.com/atif089/react-native-textinput-typeahead`
 
 ## Import the component
 
